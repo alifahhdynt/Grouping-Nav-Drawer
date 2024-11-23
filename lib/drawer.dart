@@ -56,7 +56,7 @@ class MyHomePage extends StatelessWidget {
                 'Alifah Hidayanti',
                 style: TextStyle(fontSize: 18),
               ),
-              accountEmail: const Text('alifahhidayantixpplg@gmail.com'),
+              accountEmail: const Text('alifahhdyntxpplg@gmail.com'),
               currentAccountPictureSize: const Size.square(40),
               currentAccountPicture: const CircleAvatar(
                 backgroundColor: Colors.white,
